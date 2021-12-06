@@ -12,9 +12,9 @@ built on top of [Podman](https://podman.io/) and other standard container
 technologies from [OCI](https://opencontainers.org/).
 
 [WIP Customizations]
-> use private home for each container
-> use container_t label for additional security&MCS isolation
-> option for proprietary nvidia driver
+* use private home for each container
+* use container_t label for additional security&MCS isolation
+* option for proprietary nvidia driver
 
 
 
