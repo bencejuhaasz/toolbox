@@ -11,6 +11,10 @@ systems, which allows the use of containerized command line environments. It is
 built on top of [Podman](https://podman.io/) and other standard container
 technologies from [OCI](https://opencontainers.org/).
 
+[WIP Customizations]
+> use private home for each container
+> use container_t label for additional security&MCS isolation
+> option for proprietary nvidia driver
 This is particularly useful on
 [OSTree](https://ostree.readthedocs.io/en/latest/) based operating systems like
 [Fedora CoreOS](https://coreos.fedoraproject.org/) and
